@@ -1,0 +1,9 @@
+
+answer = input("What's your favourate food?")
+if answer == "pesto":
+    pesto = True 
+    ilikepesto = ["I like pesto", "Pesto is loved by 4 people"] 
+    print(ilikepesto)
+else:  
+    print("Pesto is loved by everyone, why don't you like pesto?")
+
